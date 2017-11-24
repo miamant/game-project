@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79b36658e3984f348b494797f23303f9
+timeCreated: 1510734820
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - torpedoSpawnPoint: {instanceID: 0}
+  - torpedoPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
